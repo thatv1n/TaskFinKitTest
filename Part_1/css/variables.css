@@ -1,0 +1,6 @@
+@import '../fonts/style.css';
+
+:root {
+  --EuclidCircularA: 'Euclid Circular A';
+  --EuclidCircularABold: 'Euclid Circular A-Bold';
+}
