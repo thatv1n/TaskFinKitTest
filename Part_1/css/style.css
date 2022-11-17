@@ -113,22 +113,21 @@
 }
 
 .inner_content_left {
-  margin-bottom: 112px;
+  margin-bottom: 130px;
 }
 
 .inner_content_right {
   position: absolute;
-  width: 558.28px;
-  height: 542.79px;
+  width: 57%;
   right: -60px;
-  top: -55px;
+  top: -39px;
   overflow: hidden;
 }
 
 .hand {
   position: relative;
   top: -48px;
-  left: -20px;
+  left: -17px;
   width: 125%;
 }
 
