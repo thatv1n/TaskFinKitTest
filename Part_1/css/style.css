@@ -403,11 +403,20 @@
   }
   .key_product_card {
     height: 215px;
+    overflow: hidden;
   }
   .key_product_card_img img {
-    height: 115%;
+    height: 107%;
+    width: 112%;
   }
   .block {
     padding: 0px 12px 9px 18px;
+  }
+  .key_product_card_img {
+    right: -16px;
+    top: -8px;
+  }
+  .bottom_content_left {
+    text-align: center;
   }
 }
